@@ -1,16 +1,18 @@
-## Hi there 👋
+### About Me
 
-<!--
-**iamnmt/iamnmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Independent Security Researcher, Senior Watson at [@sherlockdefi](https://x.com/sherlockdefi), specializing in solidity smart contract and Cosmos SDK infrastructure audits.
 
-Here are some ideas to get you started:
+[Audit Portfolio](https://audits.sherlock.xyz/watson/iamnmt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For private security review, please contact me on X ([@3n0ch03](https://x.com/3n0ch03)) or Discord ([iamnmt](https://discord.com/users/iamnmt)).
+
+### Public Audit Contest Highlights
+
+| Contest                              | Description                                                  | &nbsp;&nbsp;&nbsp;Ranking&nbsp;&nbsp;&nbsp; | Platform  |
+| ------------------------------------ | ------------------------------------------------------------ | :-----------------------------------------: | :-------: |
+[Saffron Lido Vaults](https://audits.sherlock.xyz/contests/509/leaderboard) | Saffron is a DeFi primitive that turns a single source of yield into variable and fixed interest. The Saffron LIDO Vault makes native ETH staking into a fixed interest instrument. | 🥈2 | Sherlock
+[ZeroLend One](https://audits.sherlock.xyz/contests/466/leaderboard) | Forked of AAVE. Lending System. | 🥉3 | Sherlock
+[Fjord Token Staking](https://codehawks.cyfrin.io/c/2024-08-fjord/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard) | Staking system. | 🥉3 | CodeHawks
+[MagicSea - the native DEX on the IotaEVM](https://audits.sherlock.xyz/contests/437/leaderboard) | Staking, Voting, and Bribing system. | 🥈2 | Sherlock
+[YOLO Games](https://cantina.xyz/competitions/a2c3cc6a-e384-495f-9751-5d7e657bc219/leaderboard) | Probabilistic games utilizing on-chain VRF. | 4 | Cantina
+[Beefy Cowcentrated Liquidity Manager](https://audits.sherlock.xyz/contests/303/leaderboard) | Concentrated liquidity management strategy that optimizes yields from UniswapV3. | 🥇1 | Sherlock
